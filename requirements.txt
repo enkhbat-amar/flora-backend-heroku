@@ -1,0 +1,7 @@
+numpy
+torch
+sentence-transformers
+
+fastapi
+uvicorn
+protobuf==3.20.1
